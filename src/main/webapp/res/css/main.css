@@ -1,0 +1,22 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    animation-duration: 0.3s;
+    animation-delay: 0s;
+}
+
+.navbar-form .form-group{
+    display:inline;
+}
+
+.navbar-form .form-group .input-group{
+    display: table;
+}
+
+.navbar-form .form-group .input-group .input-group-addon{
+    width: 1%;
+}
+
+.navbar-form{
+    padding: inherit;
+}
